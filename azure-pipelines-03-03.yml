@@ -9,7 +9,7 @@ trigger:
 pool:
   vmImage: 'window
     written made by barath at 8.22
-variables:
+vt ariables:
   solution: '**/*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'

@@ -8,7 +8,7 @@ trigger:
 
 pool:
   vmImage: 'windows-latest'
-
+Cahnge at remote by yogi at 8.20
 variables:
   solution: '**/*.sln'
   buildPlatform: 'Any CPU'
